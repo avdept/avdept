@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **fin-tech project**
 
-- 🌱 I’m currently learning **embedded development**
+- 🌱 I’m currently learning **embedded development using stm32, nrf and few other manufacturers**
 
 - 📫 You can reach me via linkedin **provided below**
 
