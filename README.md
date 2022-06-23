@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdept&label=Profile%20views&color=0e75b6&style=flat" alt="avdept" /> </p>
 
-- 🔭 I’m currently working on **fin-tech project**
+- 🔭 I’m currently working on **fin-tech and CRM projects**
 
 - 🌱 I’m currently learning **embedded development using stm32, nrf and few other manufacturers**
 
