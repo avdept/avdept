@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdept&label=Profile%20views&color=0e75b6&style=flat" alt="avdept" /> </p>
 
+- 📫 **Available for hire**
+
 - 🔭 I’m currently working on **fin-tech and CRM projects** 
 
 - 🌱 I’m currently learning **embedded development using stm32, nrf and few other manufacturers**
-
-- 📫 Available for hire
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alex-sinelnikov/](https://www.linkedin.com/in/alex-sinelnikov/)
 
