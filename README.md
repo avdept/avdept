@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Highly dedicated full stack engineer</h3>
+<h3 align="center">Highly dedicated product engineer with over 12 years commercial experience in building and maintaining web and mobile apps. Launching my own products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdept&label=Profile%20views&color=0e75b6&style=flat" alt="avdept" /> </p>
 
@@ -10,6 +10,15 @@
 - 🌱 I’m currently learning **embedded development using stm32, nrf and few other manufacturers**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alex-sinelnikov/](https://www.linkedin.com/in/alex-sinelnikov/)
+
+- 🚀 Read my thoughts in my [blog](https://alexsinelnikov.blog)
+
+
+<h4>Check my products:</h4>
+
+- Planlike.pro - [Planlike.pro](https://planlike.pro)
+
+- sbhelper.ai - [sbhelper.ai](https://sbhelper.ai)
 
 <p align="left">
 </p>
