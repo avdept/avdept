@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **embedded development using stm32, nrf and few other manufacturers**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alex-sinelnikov/](https://www.linkedin.com/in/alex-sinelnikov/)
+- 📄 Know more about my experiences [https://www.linkedin.com/in/alex-sinelnikov/](https://www.linkedin.com/in/alex-sinelnikov/)
 
 - 🚀 Read my thoughts in my [blog](https://alexsinelnikov.blog)
 
