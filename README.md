@@ -16,5 +16,5 @@
 
 <h4>Check my products:</h4>
 
-- Updatify.io - [Updatify.io](https://updatify.io) - create release notes from your pull requests or tasks in jira(or any other) and then share them via variety of channels such as X, LI, email, embedded widget and few more. Keep your users updated with your product updates in just few clicks.
+- [Updatify.io](https://updatify.io) - create release notes from your pull requests or tasks in jira(or any other) and then share them via variety of channels such as X, LI, email, embedded widget and few more. Keep your users updated with your product updates in just few clicks.
 
