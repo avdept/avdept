@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Highly dedicated product engineer with over 12 years commercial experience in building and maintaining web and mobile apps. Launching my own products</h3>
+<h3 align="center">Highly dedicated product engineer with over 16 years commercial experience in building and maintaining web and mobile apps. Launching my own products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdept&label=Profile%20views&color=0e75b6&style=flat" alt="avdept" /> </p>
 
